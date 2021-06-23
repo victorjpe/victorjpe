@@ -20,6 +20,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [twitter]: https://twitter.com/
-[youtube]: https://youtube.com/
+[youtube]: https://youtube.com/c/victorjosepe
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/
